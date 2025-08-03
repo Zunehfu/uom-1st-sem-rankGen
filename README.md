@@ -11,7 +11,7 @@
 2.  Rename the pdf files with `module code`
 3.  Add the `mpr_student_details.json` file in the `data/` folder.
 4.  Configure the `config.ini` file in the `root` folder.
-5.  Change the course according to the reuired file (i.e `mpr`, `tm`, `em`, `tmle`)
+5.  Change the course according to the required file (i.e `mpr`, `tm`, `em`, `tmle`)
 6.  Run the Python program.
 7.  `Results Analysis.xlsx` and `Results Analysis (extended).xlsx` files will be generated which contains the following info,
     `Rank` - Rank is given considering GPA on a **4.0 scale**.
